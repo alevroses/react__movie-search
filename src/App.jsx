@@ -42,7 +42,6 @@ function App() {
           value={search}
           onChange={handleInputChange}
         />
-        <p>{search}</p>
         <button
           type="submit"
           className="search-button">
